@@ -12,11 +12,11 @@
             label = "A1";
         };
 
-        M1: M2 {
+        M1: M1 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp TILDE &kp A>;
-            label = "M2";
+            label = "M1";
         };
 
         M2: M2 {
