@@ -118,7 +118,7 @@
 &kp ESC          &kp Q              &kp W                &kp F            &bhm LEFT_CONTROL P  &kp G        &kp J      &kp L             &kp U             &kp Y                 &td5                &kp DEL
 &lt 1 BACKSPACE  &bhm LEFT_SHIFT A  &bhm LEFT_CONTROL R  &bhm LEFT_ALT S  &bhm LEFT_GUI T      &kp D        &kp H      &bhm RIGHT_GUI N  &bhm RIGHT_ALT E  &bhm RIGHT_CONTROL I  &bhm RIGHT_SHIFT O  &kp RET
 &tog 2           &lt 4 Z            &kp X                &kp C            &kp V                &kp B        &kp K      &kp M             &kp COMMA         &lt 1 DOT             &sl 3               &to 0
-                                                         &sk LSHIFT       &kp BSPC             &lt 1 TAB    &kp SPACE  &sk LEFT_SHIFT    &sl 1
+                                                         &sk LSHIFT       &kp BSPC             &lt 2 TAB    &kp SPACE  &sk LEFT_SHIFT    &sl 1
             >;
         };
 
