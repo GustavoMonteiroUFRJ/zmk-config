@@ -76,7 +76,7 @@
             #binding-cells = <0>;
             tapping-term-ms = <200>;
             bindings =
-                <&kp LG(LEFT_PARENTHESIS)>,
+                <&kp LEFT_PARENTHESIS>,
                 <&kp LEFT_BRACKET>,
                 <&kp LEFT_BRACE>;
         };
