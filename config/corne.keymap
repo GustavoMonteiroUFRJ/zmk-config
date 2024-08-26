@@ -168,7 +168,7 @@
             bindings = <
 &kp ESC            &M2  &kp LS(EXCL)  &kp LS(QMARK)  &td6           &td7               &kp GRAVE      &kp LS(DQT)  &kp RA(U)  &kp RA(Y)  &M12       &kp DEL
 &kp LC(BACKSPACE)  &M0  &kp SQT       &kp LS(TILDE)  &kp LS(CARET)  &kp MINUS          &kp SEMI       &M6          &kp RA(E)  &kp RA(I)  &kp RA(O)  &kp ENTER
-&kp SCROLLLOCK     &M1  &M10          &kp LA(COMMA)  &M11           &kp LS(UNDER)      &kp LS(COLON)  &kp SEMI     &M13       &M12       &to 0      &to 0
+&kp SCROLLLOCK     &M1  &M10          &kp RA(COMMA)  &M11           &kp LS(UNDER)      &kp LS(COLON)  &kp SEMI     &M13       &M12       &to 0      &to 0
                                       &kp LG(N1)     &trans         &kp LC(LS(ESC))    &trans         &trans       &trans
             >;
         };
